@@ -15,6 +15,9 @@ La Tarea1_SA es una aplicación de consola en python3, que consta de un menu, el
 ## Listar
 Esta funcionalidad se encarga de listar y mostrar en consola, el listado de los contactos que se encuentran en api.softwareavanzado.world.
 
+![Listado de contactos](Imagenes/Listar.JPG)
+
+
 ## Crear 10 usuarios
 Esta funcion se encarga de crear los 10 usuarios solicitados, con el siguiente formato:
 ***[nombre]-[carne]\_No_[Numero de Contacto]***
@@ -35,3 +38,5 @@ $ cd Tarea1_SA
 $ python Tarea1_SA.py
 ```
 - Escoger alguna de  las opciones que aparecen en el menu, para lo cual se debe escribir el numero de la opcion, es decir 1, 2 o 3.
+
+![Menu](Imagenes/Menu.JPG)
